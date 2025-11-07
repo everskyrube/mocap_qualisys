@@ -1,8 +1,6 @@
 # ROS Driver for Motion Capture Systems
 ![VICON Logo](http://www.awn.com/sites/default/files/styles/inline_medium/public/image/featured/1025139-vicon-delivers-motion-capture-innovations-siggraph-2015.jpg?itok=vsH7Prwo)
 
-![QUALISYS Logo](https://cdn-content.qualisys.com/2021/01/qualisys-logo-530x.png)
-
 ## Launch qualisys node in RAICo1
 
 Run a qualisys node
